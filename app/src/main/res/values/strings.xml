@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Fragments Part Two</string>
+    
+    <string-array name="titles">
+        <item >Activities</item>
+        <item>Services</item>
+        <item>Broadcast Receivers</item>
+        <item>Content Providers</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>They dictate the UI and handle the user interaction to the smart phone screen.</item>
+        <item>They handle background processing associated with an application.</item>
+        <item>They handle communication between Android OS and applications.</item>
+        <item>They handle data and database management issues.</item>
+    </string-array>
+</resources>
